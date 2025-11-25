@@ -34,9 +34,12 @@
 
 ### 🧠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,prisma,nextjs,tailwind,ts,js,html,css,git,github,vscode" />
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,ts,js,html,css,git,github,vscode,aws,docker,linux,nginx" />
 </p>
+
 
 ---
 
