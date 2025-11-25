@@ -56,3 +56,7 @@
 </p>
 
 ---
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/RaushanKumar25/RaushanKumar25/output/github-contribution-grid-snake.svg)
