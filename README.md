@@ -32,13 +32,13 @@
 
 ---
 
+
 ### 🧠 Tech Stack
 
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,ts,js,html,css,git,github,vscode,aws,docker,linux,nginx" />
-</p>
+| Frontend | Backend | Databases | DevOps / Tools |
+|---|---|---:|---|
+| React, HTML, CSS, JavaScript | Express.js, Node.js, Java, C, C++ | MongoDB, MySQL | AWS, Docker, Terraform, CI/CD |
+| VS Code, Postman | Python |  | Git, GitHub, Linux |
 
 
 ---
