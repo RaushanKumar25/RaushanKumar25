@@ -64,7 +64,8 @@
 
 ## Contribution Activity
 
-![Raushan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaushanKumar25&theme=github-dark)
+![Raushan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaushanKumar25&theme=tokyo-night
+)
 
 
 ### 🐍 GitHub Contribution Snake
