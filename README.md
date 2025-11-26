@@ -55,7 +55,7 @@
 ### 🏷️ Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaushanKumar25&layout=compact&theme=tokyonight" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaushanKumar25&layout=compact)
 
 
 </p>
