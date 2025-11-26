@@ -35,10 +35,9 @@
 
 ### 🧠 Tech Stack
 
-| Frontend | Backend | Databases | DevOps / Tools |
-|---|---|---:|---|
-| React, HTML, CSS, JavaScript | Express.js, Node.js, Java, C, C++ | MongoDB, MySQL | AWS, Docker, Terraform, CI/CD |
-| VS Code, Postman | Python |  | Git, GitHub, Linux |
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,js,html,css,react,mongodb,express,aws,docker,git,github,linux,vscode,postman,mysql,terraform,ci" alt="tech stack" />
+</p>
 
 
 ---
