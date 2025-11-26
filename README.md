@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 
 <p align="center">
-  MERN Developer | Learning Next.js | Love Clean UI and smooth user experience
+  Full Stack Developer with experience in Node.js and Express.js with growing expertise in Cloud Computing
 </p>
 
 ---
