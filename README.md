@@ -69,5 +69,5 @@
 
 
 ### 🐍 GitHub Contribution Snake
+[<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/223c8b25-0ba1-433f-b9e8-fb32c8dcfd2f" />](https://repository-images.githubusercontent.com/268364436/5dd6da80-a359-11ea-9abe-8829ad977115)
 
-![snake gif](https://raw.githubusercontent.com/RaushanKumar25/RaushanKumar25/output/github-contribution-grid-snake.svg)
