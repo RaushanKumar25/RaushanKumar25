@@ -1,68 +1,52 @@
-<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
+# 👋 Hi, I'm **Raushan Kumar**
 
-<p align="center">
-  Full Stack Developer with experience in Node.js and Express.js with growing expertise in Cloud Computing
-</p>
+**Full-Stack Developer | MERN | Learning Cloud & DevOps**
 
----
-
-### 🧑‍💻 About Me
-Currently building full-stack projects with a focus on MERN
-Learning advanced frontend workflows with Next.js
-Exploring cloud computing and AWS to understand deployments, scalability and DevOps fundamentals
-Ask me about React, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL and Prisma
-Reach me at: raushankumarbhardwaj4510@gmail.com
-Fun fact: I enjoy turning simple UI ideas into smooth, fast and scalable web apps
+I enjoy building responsive, fast and scalable web apps. Most of my work revolves around the MERN stack, but I'm also exploring cloud platforms and deployment workflows to level up my engineering skills.
 
 ---
 
-### 🔗 Connect With Me
+## 🚀 About Me
+- Working on full-stack projects using **MongoDB, Express, React and Node.js**
+- Learning **Next.js** and backend workflows with **Prisma**
+- Exploring **AWS, Docker and CI/CD** to understand deployment and automation
+- I like writing clean, simple UI paired with reliable backend systems
 
-<p>
-  <a href="https://www.linkedin.com/in/raushan-kumar-evaboot7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:raushankumarbhardwaj4510@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/roshanKuamar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+📩 **Reach me at:** *raushankumarbhardwaj4510@gmail.com*
 
 ---
 
+## 🧰 Tech Stack
 
-### 🧠 Tech Stack
+### **Frontend**
+React • Next.js • HTML • CSS • JavaScript • Tailwind CSS  
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,js,html,css,react,mongodb,express,aws,docker,git,github,linux,vscode,postman,mysql,terraform,ci" alt="tech stack" />
-</p>
+### **Backend**
+Node.js • Express.js • Prisma • MongoDB • PostgreSQL • MySQL  
 
+### **Cloud & DevOps**
+AWS • Docker • Git • GitHub • Linux • CI/CD • Terraform  
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RaushanKumar25&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaushanKumar25&theme=tokyonight" height="160"/>
-
-</p>
+### **Tools**
+VS Code • Postman  
 
 ---
 
-### 🏷️ Most Used Languages
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaushanKumar25&show_icons=true&theme=default)  
 
-<p>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaushanKumar25&layout=compact)
-
-
-</p>
+### **Most Used Languages**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaushanKumar25&layout=compact)
 
 ---
 
+## 🐍 Snake Contribution Animation  
+![snake gif](https://github.com/RaushanKumar25/RaushanKumar25/blob/output/github-contribution-grid-snake.svg)
 
-### 🐍 GitHub Contribution Snake
-[<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/223c8b25-0ba1-433f-b9e8-fb32c8dcfd2f" />](https://repository-images.githubusercontent.com/268364436/5dd6da80-a359-11ea-9abe-8829ad977115)
+---
 
+## 🔗 Connect With Me  
+- **GitHub:** https://github.com/RaushanKumar25  
+- **LinkedIn:** https://www.linkedin.com/in/raushan-kumar-evaboot7/  
+- **LeetCode:** https://leetcode.com/u/roshanKuamar/  
+- **Email:** *raushankumarbhardwaj4510@gmail.com*
