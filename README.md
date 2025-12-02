@@ -10,7 +10,9 @@
 Currently building full-stack projects with a focus on MERN
 Learning advanced frontend workflows with Next.js
 Exploring cloud computing and AWS to understand deployments, scalability and DevOps fundamentals
+
 Ask me about React, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL and Prisma
+
 Reach me at: raushankumarbhardwaj4510@gmail.com
 
 Fun fact: I enjoy turning simple UI ideas into smooth, fast and scalable web apps
